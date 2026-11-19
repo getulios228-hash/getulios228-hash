@@ -37,12 +37,11 @@ Profissional de **Dados, Business Intelligence e Governança de TI/IA** com expe
 
 ---
 
-### 📌 Projetos & Cases em Destaque (Em Construção)
-> *Esta vitrine reúne estudos de caso, arquiteturas de BI e frameworks de governança com dados públicos e fictícios:*
+### 📌 Projetos & Cases em Destaque
 
-* 🔹 **[Case 1] Dashboard Executivo & Eficiência Operacional (Power BI + SQL):** *Modelagem dimensional e KPIs em tempo real para redução de reuniões gerenciais e acompanhamento de SLAs.*
-* 🔹 **[Case 2] Pipeline ETL & Saneamento de Bases Críticas (Python + SQL):** *Rotina automatizada de deduplicação, auditoria de dados (Data Quality) e correção de inconsistências.*
-* 🔹 **[Case 3] Framework Prático de Governança de IA (ISO/IEC 42001):** *Checklists de conformidade, matriz de riscos e documentação de produto para implantação segura de IA em negócios.*
+* 🛡️ **[Framework Prático de Governança de IA (ISO/IEC 42001)](https://github.com):** *Guia executivo, checklists de conformidade e matriz de avaliação de riscos para implantação segura e auditável de IA nos negócios.*
+* 🔍 **[Pipeline de Auditoria e Saneamento de Dados (SQL + Data Quality)](https://github.com):** *Rotinas estruturadas em SQL Avançado (CTEs e Window Functions) para deduplicação, tratamento de anomalias e construção de camadas analíticas confiáveis.*
+* 🐍 **[Sistema Inteligente de Embarque (Python)](https://github.com):** *Aplicação desenvolvida em Python para automação e lógica operacional.*
 
 ---
 
@@ -50,3 +49,4 @@ Profissional de **Dados, Business Intelligence e Governança de TI/IA** com expe
 
 [![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Gmail](https://shields.io)](mailto:goncalvesgeh10@gmail.com)
+
